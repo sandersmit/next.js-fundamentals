@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 linear.md
+
+# local env files
+drizzle.config.ts
